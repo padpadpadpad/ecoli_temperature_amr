@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+Icon?
+
+# Large model objects (fetched separately, see README)
+data/models/
+
+# Too large for GitHub (100MB limit)
+data/processed/05_kanamycin_processed_cleaned.csv
+
+# Archives
+*.zip
+
+# Google Drive doc shortcuts
+*.gdoc
