@@ -2,6 +2,9 @@
 
 This repository contains raw phenotypic data, processing and analysis scripts, for the study on the selection and spread of kanamycin resistance in *E. coli* MG1655 and plasmids R1 and RP4.
 
+- Initial submission archived on **Zenodo**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23389520.svg)](https://doi.org/10.5281/zenodo.23389520)
+- Preprint on [**bioRxiv**](https://doi.org/10.64898/2026.10.16.759609).
+
 ## Contents
 
 - [Licensing](#licensing)  
